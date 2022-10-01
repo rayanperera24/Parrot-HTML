@@ -1,0 +1,32 @@
+<html>
+    <body>
+        <font size="2"><center>Classic Movieday</center></font>
+        <table border="2" align="center">
+            <tr>
+              <th>   </th>
+              <th>5 pm</th>
+              <th>7 pm</th>
+              <th>9 pm</th>
+              <th>11 pm</th>
+            </tr>
+            <tr>
+              <td>screen one</td>
+              <td>HTML</td>
+              <td>JAVA</td>
+              <td>Javascript</td>
+              <td>CSS</td>
+            </tr>
+            <tr>
+              <td>screen two</td>
+              <td colspan="2">Database</td>
+              <td colspan="2">Oracle</td>
+            </tr>
+            <tr>
+                <td>screen three</td>
+                <td colspan="2">C#</td>
+                <td>HTML5</td>
+                <td>CSS3</td>
+              </tr>
+          </table>
+    </body>
+</html>
